@@ -265,7 +265,7 @@ span{
     65%,
     80%,
     85%{
-        width: calc(100%+8px);
+        width: calc(100% + 8px);
     }
    
 }
